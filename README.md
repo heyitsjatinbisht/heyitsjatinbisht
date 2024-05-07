@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack projects.**
 
-- 👨‍💻 All of my projects are available at [Jsbist21.github.io](Jsbist21.github.io)
+- 👨‍💻 All of my projects are available at https://jsbist21.github.io/
 
 - 💬 Ask me about **react and express.**
 
