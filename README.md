@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack projects.**
 
-- 👨‍💻 All of my projects are available at https://heyitsjatinbisht.github.io/
+- 👨‍💻 All of my projects are available at https://heyitsmejatin.netlify.app/
 
 - 💬 Ask me about **react and express.**
 
