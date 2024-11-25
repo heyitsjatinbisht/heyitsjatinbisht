@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsbist21&label=Profile%20views&color=0e75b6&style=flat" alt="jsbist21" /> </p>
 
-- 🔭 I’m currently looking **for job.**
 
 - 🌱 I’m currently learning **NextJs.**
 
